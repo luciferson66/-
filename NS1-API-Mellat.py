@@ -4,7 +4,7 @@ import json
 url = "https://ns2.bankmellat.ir/api/resource?api_key=f4e04...................&account=IR83012002............."
 headers = {
     "Content-Type": "Json.json",
-    "API-KEY": "f4e0457a-9f57-8d6c-8428f8474f3866cf"
+    "API-KEY": "f4e0457a-9f57................"
     }
 
 data = {
